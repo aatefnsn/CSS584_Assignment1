@@ -2,8 +2,6 @@ CSS 584 Assignment 1
 
 Student Name: Ahmed Nada
 
-ID #: 1875772
-
 **[How to run the program:]{.underline}**
 
 1.  I'm attaching the whole project + package + src file
